@@ -1,2 +1,2 @@
 # loginform
-//only for interviwer
+only for interviwer
